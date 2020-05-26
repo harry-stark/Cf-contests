@@ -4,4 +4,4 @@ It returns the upcoming and active contest on Codeforces along with their starti
 
 
 Run the following command:
-**$python cfapi.py**
+**python cfapi.py**
